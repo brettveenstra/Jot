@@ -4,8 +4,8 @@
     <id>Jot.Jwt.Token.Authorization.BrettVeenstra</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>James Demeuse, Brett Veenstra</authors>
+    <owners>James Demeuse</owners>
     <licenseUrl>https://github.com/brettveenstra/Jot/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/brettveenstra/Jot</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
