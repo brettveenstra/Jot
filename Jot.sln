@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jot", "Jot\Jot.csproj", "{9A7212DA-55DC-431D-B4A5-8EE99B323773}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jot.Tests", "Jot.Tests\Jot.Tests.csproj", "{E407D639-52E1-4EDD-86A9-9DF816D44CD9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jot.Tests.NoConfig", "Jot.Tests.NoConfig\Jot.Tests.NoConfig.csproj", "{29F8F471-D00E-440C-A4B0-066344614774}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D2389E26-07D9-4DCA-A353-9C9A090D5219}"
+	ProjectSection(SolutionItems) = preProject
+		Jot\Jot.nuspec = Jot\Jot.nuspec
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
