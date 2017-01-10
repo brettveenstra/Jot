@@ -3,7 +3,7 @@
   <metadata>
     <id>Jot.Jwt.Token.Authorization.BrettVeenstra</id>
     <version>$version$</version>
-    <title>$title$</title>
+    <title>Jot Web Tokens UTC Fix</title>
     <authors>James Demeuse, Brett Veenstra</authors>
     <owners>James Demeuse</owners>
     <licenseUrl>https://github.com/brettveenstra/Jot/blob/master/LICENSE</licenseUrl>
